@@ -1,4 +1,4 @@
----
+fyxgs---
 title: "Android Quick Settings"
 id: 'android-quick-settings'
 ---
